@@ -28,4 +28,9 @@
         font-family: Sahel;
         src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha9/dist/Sahel.woff') format('woff');
       }    
+
+body {
+ direction:rtl;
+            font-family:Vazir;
+}
         
