@@ -1,0 +1,31 @@
+            
+      @font-face {
+        font-family: Vazir;
+        src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v8.2.1/dist/Vazir.woff') format('woff');
+      }    
+            
+      @font-face {
+        font-family: Samim;
+        src: url('https://cdn.rawgit.com/rastikerdar/samim-font/v1.0.2/dist/Samim.woff') format('woff');
+      }    
+            
+      @font-face {
+        font-family: Shabnam;
+        src: url('https://cdn.rawgit.com/rastikerdar/shabnam-font/v1.0.2/dist/Shabnam.woff') format('woff');
+      }    
+            
+      @font-face {
+        font-family: Tanha;
+        src: url('https://cdn.rawgit.com/rastikerdar/tanha-font/v0.4.1/dist/Tanha.woff') format('woff');
+      }    
+      
+      @font-face {
+        font-family: Gandom;
+        src: url('https://cdn.rawgit.com/rastikerdar/gandom-font/v0.5.1/dist/Gandom.woff') format('woff');
+      }    
+            
+      @font-face {
+        font-family: Sahel;
+        src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha9/dist/Sahel.woff') format('woff');
+      }    
+        
