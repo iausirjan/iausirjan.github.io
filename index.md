@@ -1,8 +1,19 @@
-##نمونه پایان نامه تولید شده توسط لتک
+####
+
+
+نمونه پایان نامه تولید شده توسط لتک
+
 #LaTex
-##https://github.com/iausirjan/Latex##
-#دریافت فایل زیپ پروژه
+
+##https://github.com/iausirjan/Latex
+
+#
+
+دریافت فایل زیپ پروژه
+
 ##https://github.com/iausirjan/Latex/archive/master.zip
+
+
 فونت فارسی مورد نیاز پایان‌نامه، فونت لوتوس می‌باشد که آخرین نگارش نسخه فونت داخل بسته
 
 persian-hm-ftx
